@@ -4,5 +4,3 @@ permalink: /about/
 ---
 
 <p class="heavy-title">在这里写写东西记录下学习生活</p>
-
->Designed and developed by [@thinker3197](https://github.com/thinker3197).
